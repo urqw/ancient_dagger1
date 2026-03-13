@@ -4,7 +4,7 @@ Text-based game "Ancient Dagger 1" (Russian: "Древний кинжал 1") by
 
 The game is in Russian, developed for RipURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#ancient_dagger1).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=ancient_dagger1).
 
 The game was first published on December 9, 2000.
 
